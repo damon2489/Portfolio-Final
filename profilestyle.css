@@ -38,3 +38,8 @@ ul {
 ul .active {
   background-color: #525ff1;
 }
+
+.rightalign{
+  margin-left: auto;
+  display: flex;
+}
