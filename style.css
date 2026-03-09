@@ -75,3 +75,8 @@ border: #e6e1f8 solid 10px;
 .enlarge:hover {
     transform: scale(1.05);
 }
+
+.rightalign{
+  margin-left: auto;
+  display: flex;
+}
