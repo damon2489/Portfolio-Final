@@ -29,12 +29,12 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #676060;
+  background-color: #afacac;
 }
 ul {
   position: sticky;
   top: 0;
 }
 ul .active {
-  background-color: #04AA6D;
+  background-color: #525ff1;
 }
