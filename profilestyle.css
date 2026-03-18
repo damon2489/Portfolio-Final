@@ -40,6 +40,10 @@ ul .active {
   background-color: #525ff1;
 }
 
+.center {
+    text-align: center;
+}
+
 .rightalign{
   margin-left: auto;
   display: flex;
