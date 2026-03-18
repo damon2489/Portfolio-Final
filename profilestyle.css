@@ -40,8 +40,12 @@ ul .active {
   background-color: #525ff1;
 }
 
-.center {
+i {
     text-align: center;
+}
+
+h1 {
+    text-align:center;
 }
 
 .rightalign{
