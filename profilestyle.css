@@ -45,7 +45,11 @@ i {
 }
 
 h1 {
-    text-align:center;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
 }
 
 .rightalign{
